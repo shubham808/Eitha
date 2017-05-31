@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: debee2fdb05597f44a8be6a651f79cd9
+timeCreated: 1489643277
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - quitmenu: {fileID: 223660379770214322, guid: cba27a56b0e1e0b48baaad8e53cdc7d0,
+      type: 2}
+  - starttext: {instanceID: 0}
+  - exittext: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
